@@ -46,6 +46,8 @@ INSTALLED_APPS = [
     #
     'parklar',
     'masjidlar',
+    #
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
